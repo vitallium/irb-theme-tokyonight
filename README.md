@@ -7,11 +7,15 @@ by [a similar gem](https://github.com/katsyoshi/irb-theme-dracula) featuring the
 
 Install the gem and add to the application's Gemfile by executing:
 
-    $ bundle add require irb-theme-tokyonight
+```shell
+bundle add require irb-theme-tokyonight
+```
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
-    $ gem install irb-theme-tokyonight
+```shell
+gem install irb-theme-tokyonight
+```
 
 ## Usage
 
