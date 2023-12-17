@@ -1,6 +1,6 @@
 # Irb::Theme::Tokyonight
 
-[Tokyo Night colors](https://github.com/folke/tokyonight.nvim) for `Reline` (IRB). This gem is inspired
+[Tokyo Night colors](https://github.com/folke/tokyonight.nvim) for [`Reline`](https://github.com/ruby/reline) (IRB). This gem is inspired
 by [a similar gem](https://github.com/katsyoshi/irb-theme-dracula) featuring the `Dracula` theme.
 
 ## Installation
