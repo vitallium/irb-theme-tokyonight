@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     irb-theme-tokyonight (0.2.1)
-      irb
-      reline (>= 0.5)
+      irb (~> 1.13)
+      reline (~> 0.5)
 
 GEM
   remote: https://rubygems.org/
