@@ -33,4 +33,5 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "reline", "~> 0.5"
 
   spec.add_development_dependency "standard", "~> 1.3"
+  spec.add_development_dependency "repl_type_completor", "~> 0.1"
 end
