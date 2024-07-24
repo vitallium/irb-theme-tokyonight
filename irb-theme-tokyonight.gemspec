@@ -29,7 +29,7 @@ Gem::Specification.new do |spec|
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
 
-  spec.add_runtime_dependency "irb", "~> 1.13"
+  spec.add_runtime_dependency "irb", "~> 1.14"
   spec.add_runtime_dependency "reline", "~> 0.5"
 
   spec.add_development_dependency "standard", "~> 1.3"
