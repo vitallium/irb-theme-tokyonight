@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 Reline::Face.config(:completion_dialog) do |conf|
   conf.define(:default, foreground: "#c0caf5", background: "#1a1b26")
   conf.define(:enhanced, foreground: "#c0caf5", background: "#283457")
