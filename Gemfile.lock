@@ -37,8 +37,7 @@ GEM
     repl_type_completor (0.1.6)
       prism (>= 0.19.0)
       rbs (>= 2.7.0, < 4.0.0)
-    rexml (3.3.5)
-      strscan
+    rexml (3.3.7)
     rubocop (1.64.1)
       json (~> 2.3)
       language_server-protocol (>= 3.17.0)
@@ -69,7 +68,6 @@ GEM
       lint_roller (~> 1.1)
       rubocop-performance (~> 1.21.0)
     stringio (3.1.1)
-    strscan (3.1.0)
     unicode-display_width (2.5.0)
 
 PLATFORMS
