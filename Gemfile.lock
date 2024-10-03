@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    irb-theme-tokyonight (0.4.2)
+    irb-theme-tokyonight (0.5.0)
       irb (~> 1.14)
       reline (~> 0.5)
 
