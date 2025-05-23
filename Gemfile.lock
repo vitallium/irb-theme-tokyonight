@@ -40,7 +40,7 @@ GEM
     regexp_parser (2.9.3)
     reline (0.6.1)
       io-console (~> 0.5)
-    repl_type_completor (0.1.9)
+    repl_type_completor (0.1.11)
       prism (~> 1.0)
       rbs (>= 2.7.0, < 4.0.0)
     rubocop (1.75.7)
