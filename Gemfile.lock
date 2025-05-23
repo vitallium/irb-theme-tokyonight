@@ -38,7 +38,7 @@ GEM
     rdoc (6.11.0)
       psych (>= 4.0.0)
     regexp_parser (2.9.3)
-    reline (0.6.0)
+    reline (0.6.1)
       io-console (~> 0.5)
     repl_type_completor (0.1.9)
       prism (~> 1.0)
