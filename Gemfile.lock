@@ -11,7 +11,7 @@ GEM
     ast (2.4.3)
     date (3.4.1)
     erb (5.0.2)
-    io-console (0.8.0)
+    io-console (0.8.1)
     irb (1.15.2)
       pp (>= 0.6.0)
       rdoc (>= 4.0.0)
