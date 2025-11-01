@@ -9,7 +9,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.3)
-    date (3.4.1)
+    date (3.5.0)
     erb (5.0.2)
     io-console (0.8.1)
     irb (1.15.2)
@@ -92,4 +92,4 @@ DEPENDENCIES
   standard (~> 1.41)
 
 BUNDLED WITH
-   2.6.9
+   2.7.2
