@@ -91,7 +91,7 @@ DEPENDENCIES
   irb-theme-tokyonight!
   rake (~> 13)
   repl_type_completor (~> 0.1)
-  standard (~> 1.41)
+  standard (~> 1.52)
 
 BUNDLED WITH
    2.7.2
