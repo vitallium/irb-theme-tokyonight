@@ -34,6 +34,6 @@ Gem::Specification.new do |spec|
 
   spec.add_development_dependency "rake", "~> 13"
 
-  spec.add_development_dependency "standard", "~> 1.52"
+  spec.add_development_dependency "standard", "~> 1.53"
   spec.add_development_dependency "repl_type_completor", "~> 0.1"
 end
